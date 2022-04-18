@@ -11,6 +11,9 @@
   "keywords": [],
   "author": "",
   "license": "MIT",
+  "engines": {
+    "node": "16.13.0"
+  },
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.3",
